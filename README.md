@@ -30,4 +30,8 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0053-maximum-subarray) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
