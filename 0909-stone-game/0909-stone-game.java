@@ -28,8 +28,10 @@ class Solution {
                 dp[i][j] = -1;
             }
         }
+        int start = 0;
+        int end = piles.length - 1;
         int answer = helper(0, piles.length - 1,0,0,0,piles, dp);
-        if(answer == 1){
+        if(dp[start][end] == 1){
             return true;
         }
         return false;
