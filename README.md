@@ -26,6 +26,7 @@ Solutions To Leetcode
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3427-special-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
@@ -63,6 +64,7 @@ Solutions To Leetcode
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
 |  |
@@ -153,5 +155,6 @@ Solutions To Leetcode
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
