@@ -25,6 +25,7 @@ Solutions To Leetcode
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3427-special-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3427-special-array-ii) |
@@ -142,6 +143,7 @@ Solutions To Leetcode
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
@@ -157,4 +160,16 @@ Solutions To Leetcode
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
