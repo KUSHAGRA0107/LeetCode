@@ -23,13 +23,10 @@ class Solution:
                     curr_position = hashMap[target[i]]
                     original[curr_position] = original[i]
                     hashMap[original[i]] = curr_position
-
+                    hashMap[target[i]] = i
+                    original[i] = target[i]
 
             return swaps 
-
-            
-
-        
         while queue:
             currentSize = len(queue)
             level = []
