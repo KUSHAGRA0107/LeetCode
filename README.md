@@ -6,6 +6,7 @@ Solutions To Leetcode
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -36,6 +37,7 @@ Solutions To Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0118-pascals-triangle) |
@@ -50,6 +52,7 @@ Solutions To Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0135-candy) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
