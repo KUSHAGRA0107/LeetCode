@@ -1,24 +1,24 @@
 class Solution {
-    public static int getminimumCost(int index, int range, int [] days, int [] costs, int size, int [][] dp){
-        if(index >= size) return 0;
-        if(dp[index][range] != -1) return dp[index][range];
-        if(range >= days[index]) return getminimumCost(index + 1, range, days, costs, size,dp);
-        int oneDaypass = costs[0] + getminimumCost(index + 1, days[index], days, costs, size,dp);
-        int sevenDaypass = costs[1] + getminimumCost(index + 1, days[index] + 6, days, costs, size,dp);
-        int fifteenDaypass = costs[2] + getminimumCost(index + 1, days[index] + 29, days, costs, size,dp);
-        dp[index][range] = Math.min(Math.min(oneDaypass, sevenDaypass), fifteenDaypass);
-        return dp[index][range];
-    }   
+    public static int getminCost(int index, HashSet<Integer> day, int [] cost,int [] dp, int [] days){
+        if(index > days[days.length - 1]) return 0;
+        if(dp[index] != -1) return dp[index];
+        if(!day.contains(index)) return getminCost(index + 1, day, cost, dp, days);
+        dp[index] = Math.min(
+            Math.min(cost[1] + getminCost(index + 7, day, cost, dp, days), cost[2] + getminCost(index + 30, day, cost, dp, days)),
+            cost[0] + getminCost(index + 1, day, cost, dp, days)
+        );
+        return dp[index];
+    }
     public int mincostTickets(int[] days, int[] costs) {
-        int size = days.length;
-        int range = days[size - 1] + 30;
-        int [][] dp = new int[size][range];
-        for(int i = 0; i < dp.length; i++){
-            for(int j = 0; j < dp[0].length;j++){
-                dp[i][j] = -1;
-            }
+        HashSet<Integer> set = new HashSet<>();
+        for(int i = 0; i < days.length; i++){
+            set.add(days[i]);
         }
-        int answer = getminimumCost(0, 0, days, costs, size, dp);
+        int range = days[days.length - 1];
+        int [] dp = new int[range + 1];
+        for(int i = 0; i < range + 1; i++) dp[i] = -1;
+        int answer = getminCost(0, set, costs, dp, days);
         return answer;
+    
     }
 }
