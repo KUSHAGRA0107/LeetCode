@@ -33,6 +33,7 @@ Solutions To Leetcode
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3427-special-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@ Solutions To Leetcode
 | [1063-best-sightseeing-pair](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Greedy
 |  |
 | ------- |
