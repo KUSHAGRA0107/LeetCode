@@ -7,6 +7,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -87,6 +88,7 @@ Solutions To Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0079-word-search) |
@@ -148,6 +150,7 @@ Solutions To Leetcode
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
