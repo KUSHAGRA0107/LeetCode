@@ -28,6 +28,7 @@ Solutions To Leetcode
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -93,6 +94,7 @@ Solutions To Leetcode
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
 |  |
 | ------- |
