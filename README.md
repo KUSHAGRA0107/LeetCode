@@ -39,6 +39,7 @@ Solutions To Leetcode
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3427-special-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3427-special-array-ii) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Solutions To Leetcode
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Greedy
 |  |
 | ------- |
