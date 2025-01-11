@@ -19,6 +19,7 @@ Solutions To Leetcode
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
@@ -127,6 +128,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
