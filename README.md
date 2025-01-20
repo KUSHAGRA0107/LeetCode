@@ -108,6 +108,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
@@ -175,6 +176,7 @@ Solutions To Leetcode
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 ## Heap (Priority Queue)
 |  |
