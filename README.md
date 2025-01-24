@@ -47,6 +47,7 @@ Solutions To Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0053-maximum-subarray) |
@@ -113,6 +114,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0125-valid-palindrome) |
@@ -133,6 +135,7 @@ Solutions To Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0125-valid-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
