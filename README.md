@@ -60,6 +60,7 @@ Solutions To Leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -187,6 +188,7 @@ Solutions To Leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -265,6 +267,7 @@ Solutions To Leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
