@@ -17,6 +17,7 @@ Solutions To Leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -155,6 +156,7 @@ Solutions To Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
