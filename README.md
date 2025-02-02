@@ -32,6 +32,7 @@ Solutions To Leetcode
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
