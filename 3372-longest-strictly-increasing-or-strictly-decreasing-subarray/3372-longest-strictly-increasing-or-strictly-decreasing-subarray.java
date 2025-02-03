@@ -2,36 +2,25 @@ class Solution {
     public int longestMonotonicSubarray(int[] nums) {
         int increasingCount = 1;
         int decreasingCount = 1;
+        int answer = 1;
         int size = nums.length;
-        int answer = 0;
-        int startElement = 0;
-
-        for(int i = 0; i<size; i++){
-            startElement = nums[i];
-            increasingCount = 1;
-            for(int j = i + 1; j < size; j++){
-                if(nums[j] <= startElement){
-                    break;
-                }
+        for(int i = 1; i < size; i++){
+            // this is to check the increasingSubArray
+            if(nums[i] > nums[i - 1]){
                 increasingCount++;
-                startElement = nums[j];
+                decreasingCount = 1;
             }
-            answer = Math.max(answer, increasingCount);
-        }
-
-        for(int i = 0; i<size; i++){
-            startElement = nums[i];
-            decreasingCount = 1;
-            for(int j = i + 1; j < size; j++){
-                if(nums[j] >= startElement){
-                    break;
-                }
+            // this is to check decreasing SubArray
+            else if(nums[i] < nums[i - 1]){
+                increasingCount = 1;
                 decreasingCount++;
-                startElement = nums[j];
             }
-            answer = Math.max(answer, decreasingCount);
+            else{
+               increasingCount = 1;
+               decreasingCount = 1;
+            }
+            answer = Math.max(answer, Math.max(increasingCount, decreasingCount));
         }
-        
         return answer;
     }
 }
