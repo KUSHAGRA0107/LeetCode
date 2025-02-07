@@ -304,4 +304,8 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
