@@ -8,7 +8,7 @@ class Solution {
                 map.put(year , map.getOrDefault(year, 0) + 1);
             }
         }
-        int max_value = 0, answer_year = 2051;
+        int max_value = 0, answer_year = 0;
         for(Integer key : map.keySet()){
             if(map.get(key) > max_value || (map.get(key) == max_value && key < answer_year))
                 {
