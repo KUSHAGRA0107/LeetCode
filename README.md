@@ -64,6 +64,7 @@ Solutions To Leetcode
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
@@ -256,6 +257,7 @@ Solutions To Leetcode
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1983-maximum-population-year](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1983-maximum-population-year) |
 | [3427-special-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
@@ -265,6 +267,7 @@ Solutions To Leetcode
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
@@ -280,6 +283,7 @@ Solutions To Leetcode
 | ------- |
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -346,4 +350,5 @@ Solutions To Leetcode
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
