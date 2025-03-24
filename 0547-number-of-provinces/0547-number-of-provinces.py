@@ -12,7 +12,6 @@ class Solution:
                 if isConnected[i][j] == 1 and i != j:
                     adjacency_list[i].append(j)
                     adjacency_list[j].append(i)
-        print(adjacency_list)
         count = 0
         visited_array = [False] * (len(isConnected))
 
