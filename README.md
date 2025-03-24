@@ -116,6 +116,7 @@ Solutions To Leetcode
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [3189-find-champion-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3189-find-champion-ii) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ Solutions To Leetcode
 | [0079-word-search](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,6 +320,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -326,6 +329,7 @@ Solutions To Leetcode
 | ------- |
 | [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
