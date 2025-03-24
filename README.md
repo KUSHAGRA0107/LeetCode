@@ -116,6 +116,7 @@ Solutions To Leetcode
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [3189-find-champion-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3189-find-champion-ii) |
 ## Hash Table
@@ -320,6 +321,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -329,6 +331,7 @@ Solutions To Leetcode
 | ------- |
 | [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -355,4 +358,8 @@ Solutions To Leetcode
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
