@@ -362,4 +362,12 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0547-number-of-provinces) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
