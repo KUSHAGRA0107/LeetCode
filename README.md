@@ -370,6 +370,7 @@ Solutions To Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
