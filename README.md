@@ -241,6 +241,7 @@ Solutions To Leetcode
 | [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
+| [0382-linked-list-random-node](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -371,6 +372,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0382-linked-list-random-node](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -378,4 +380,12 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
