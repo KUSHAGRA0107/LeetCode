@@ -1,16 +1,16 @@
 class Solution {
-    public long getMaximum(int index,int [][] questions, long [] dp){
-        if(index >= questions.length) return 0;
-        if(dp[index] != -1) return dp[index];
-        long take = questions[index][0] + getMaximum(index + questions[index][1] + 1, questions, dp);
-        long not_take = getMaximum(index + 1, questions, dp);
-        return dp[index] = Math.max(take, not_take);
-    }
     public long mostPoints(int[][] questions) {
-        int index = 0;
-        long [] dp = new long[questions.length];
-        Arrays.fill(dp, -1);
-        long answer = getMaximum(index,questions,dp);
-        return answer;
+        int size = questions.length;
+        long [] table = new long[size];
+        table[size - 1] = questions[size - 1][0];
+        for(int i = size - 2; i >= 0; i--){
+            long take = questions[i][0];
+            if(i + questions[i][1] + 1 < size){
+                take += table[i + questions[i][1] + 1];
+            }
+            long not_take = table[i + 1];
+            table[i] = Math.max(take, not_take);
+        }
+        return table[0];
     }
 }
