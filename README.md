@@ -48,6 +48,7 @@ Solutions To Leetcode
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -94,6 +95,7 @@ Solutions To Leetcode
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
