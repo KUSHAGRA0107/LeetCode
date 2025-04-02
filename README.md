@@ -31,6 +31,7 @@ Solutions To Leetcode
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -294,6 +295,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
+| [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
@@ -377,12 +379,14 @@ Solutions To Leetcode
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0382-linked-list-random-node](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 ## Reservoir Sampling
 |  |
 | ------- |
