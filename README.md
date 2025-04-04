@@ -331,6 +331,7 @@ Solutions To Leetcode
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [2384-root-equals-sum-of-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -359,6 +360,7 @@ Solutions To Leetcode
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [2384-root-equals-sum-of-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
