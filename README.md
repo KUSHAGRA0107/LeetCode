@@ -72,6 +72,7 @@ Solutions To Leetcode
 | [3643-zero-array-transformation-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Solutions To Leetcode
 | [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Solutions To Leetcode
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -177,6 +180,7 @@ Solutions To Leetcode
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -390,6 +394,7 @@ Solutions To Leetcode
 | ------- |
 | [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
+| [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Reservoir Sampling
 |  |
 | ------- |
