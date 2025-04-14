@@ -42,6 +42,7 @@ Solutions To Leetcode
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -122,6 +123,7 @@ Solutions To Leetcode
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -145,6 +147,7 @@ Solutions To Leetcode
 | [0454-4sum-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -247,6 +250,7 @@ Solutions To Leetcode
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
