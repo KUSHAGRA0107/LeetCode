@@ -25,6 +25,7 @@ Solutions To Leetcode
 | [0217-contains-duplicate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -92,6 +93,7 @@ Solutions To Leetcode
 | [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -114,6 +116,7 @@ Solutions To Leetcode
 | [0045-jump-game-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -218,6 +221,7 @@ Solutions To Leetcode
 | ------- |
 | [0162-find-peak-element](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -282,6 +286,7 @@ Solutions To Leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1983-maximum-population-year](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1983-maximum-population-year) |
