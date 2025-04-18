@@ -210,6 +210,7 @@ Solutions To Leetcode
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Solutions To Leetcode
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
 | ------- |
@@ -476,4 +478,8 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1656-count-good-triplets) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
