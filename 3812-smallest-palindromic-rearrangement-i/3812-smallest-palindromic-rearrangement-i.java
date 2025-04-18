@@ -1,31 +1,29 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        int [] frequency = new int[26];
-        Arrays.fill(frequency,0);
-        for(int i = 0; i < s.length(); i++){
-            frequency[s.charAt(i) - 97]++;
+        int [] character_array = new int[26];
+        int size = s.length();
+        for(int i = 0; i < size; i++){
+            character_array[s.charAt(i) - 97]++; 
         }
-        char [] answer = new char[s.length()];
-        int i = 0;
-        int j = s.length() - 1;
-        for(int idx = 0; idx < 26; idx++){
-            int freq = frequency[idx];
-            while(freq > 1){
-                answer[i] = (char) (idx + 97);
-                answer[j] = (char) (idx + 97);
-                freq -= 2;
-                i++;j--;
+        char [] list = new char[size];
+        int low = 0;
+        int high = size - 1;
+        for(int i = 0; i < 26; i++){
+            while(character_array[i] > 1){
+                list[low] = (char) (i + 97);
+                list[high] = (char) (i + 97);
+                low++;
+                high--;
+                character_array[i] -= 2;
             }
         }
-        for(int idx = 0; idx < 26; idx++){
-            if(frequency[idx] % 2 == 1){
-                answer[i] = (char)(idx + 97);
+
+        for(int i = 0; i < 26; i++){
+            if(character_array[i] == 1){
+                list[low] = (char) (i + 97);
+                low++;
             }
         }
-        StringBuilder string = new StringBuilder("");
-        for(int index = 0; index < answer.length;index++){
-            string.append(answer[index]);
-        }
-        return string.toString();
+        return String.valueOf(list);
     }
 }
