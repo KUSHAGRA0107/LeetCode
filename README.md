@@ -28,6 +28,7 @@ Solutions To Leetcode
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -244,6 +245,7 @@ Solutions To Leetcode
 | [0162-find-peak-element](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -349,6 +351,7 @@ Solutions To Leetcode
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -359,6 +362,7 @@ Solutions To Leetcode
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
@@ -370,6 +374,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
