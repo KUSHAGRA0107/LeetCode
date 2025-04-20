@@ -39,6 +39,7 @@ Solutions To Leetcode
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0876-hand-of-straights) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
@@ -133,6 +134,7 @@ Solutions To Leetcode
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -158,6 +160,7 @@ Solutions To Leetcode
 | [0454-4sum-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0876-hand-of-straights) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -294,6 +297,7 @@ Solutions To Leetcode
 | [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Game Theory
