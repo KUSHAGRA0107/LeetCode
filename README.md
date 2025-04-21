@@ -365,6 +365,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -456,6 +457,7 @@ Solutions To Leetcode
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 | [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
