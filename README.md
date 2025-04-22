@@ -373,6 +373,7 @@ Solutions To Leetcode
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -385,6 +386,7 @@ Solutions To Leetcode
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -464,6 +466,7 @@ Solutions To Leetcode
 | [0155-min-stack](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
 | [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Reservoir Sampling
 |  |
@@ -497,4 +500,8 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
