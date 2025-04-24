@@ -35,6 +35,7 @@ Solutions To Leetcode
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -239,6 +240,7 @@ Solutions To Leetcode
 | [0125-valid-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -256,6 +258,7 @@ Solutions To Leetcode
 | [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -274,6 +277,7 @@ Solutions To Leetcode
 | [0049-group-anagrams](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0876-hand-of-straights) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
@@ -319,6 +323,7 @@ Solutions To Leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -337,6 +342,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2478-longest-nice-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
