@@ -8,6 +8,7 @@ Solutions To Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
@@ -159,6 +160,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -186,6 +188,7 @@ Solutions To Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -226,6 +229,7 @@ Solutions To Leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
