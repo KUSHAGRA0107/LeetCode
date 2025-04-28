@@ -3,7 +3,7 @@ Select
 s.student_id as student_id,
 s.student_name as student_name,
 sb.subject_name as subject_name,
-Count(e.student_id) as attended_exams
+Count(e.subject_name) as attended_exams
 from
 Students s
 Cross Join
