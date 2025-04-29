@@ -45,6 +45,7 @@ Solutions To Leetcode
 | [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -144,6 +145,7 @@ Solutions To Leetcode
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0890-lemonade-change) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
