@@ -1,36 +1,38 @@
 class Solution {
     public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
-        /* We will sort the task in ascending order difficulty wise
-        so that worker has a choice to perform only certain task such 
-        that all the  task before the threshold(binary-search) can be performed by the worker
-        and also the max of all those will be the one that the worker will perform
-        (prefix-max-array)
-        */
-        int size = difficulty.length;
-        int [][] nums = new int[size][2];
+        int size_difficulty = difficulty.length;
+        int size_worker = worker.length;
+        int [][] temp = new int[size_difficulty][2];
+        int [] prefix_max = new int[size_difficulty];
         int answer = 0;
-        int [] max_profit = new int[size];
-        for(int i = 0; i < size; i++){
-            int diff = difficulty[i];
-            int prof = profit[i];
-            nums[i][0] = diff;
-            nums[i][1] = prof;
-        }
-        Arrays.sort(nums, (a,b) -> a[0] - b[0]);
-        max_profit[0] = nums[0][1];
-        for(int i = 1; i < size; i++){
-            max_profit[i] = Math.max(max_profit[i - 1], nums[i][1]);
-        }
+        int low = 0;
+        int high = 0;
+        int mid = 0;
+        int index = -1;
 
-        for(int i = 0; i < worker.length ; i++){
-            int labour = worker[i];
-            int low = 0;
-            int high = size - 1;
-            int index = -1;
+        /* 2 CROSS N Temp Array */
+        for(int i = 0; i < size_difficulty; i++){
+            temp[i][0] = difficulty[i];
+            temp[i][1] = profit[i];
+        }
+        /* Sorting the array based on first */
+        Arrays.sort(temp, (a, b) -> a[0] - b[0]);
+
+        /* Prefix max_array*/
+        prefix_max[0] = temp[0][1];
+        for(int i = 1; i < size_difficulty; i++){
+            prefix_max[i] = Math.max(prefix_max[i - 1], temp[i][1]);
+        }
+        
+        for(int i = 0; i < size_worker; i++){
+            int wrkr = worker[i];
+            low = 0;
+            high = size_difficulty - 1;
+            index = -1;
             while(low <= high){
-                int mid = (low + high) >> 1;
-                int value = nums[mid][0];
-                if(labour >= value){
+                mid = low + high >> 1;
+                int value = temp[mid][0];
+                if(wrkr >= value){
                     index = mid;
                     low = mid + 1;
                 }else{
@@ -38,9 +40,9 @@ class Solution {
                 }
             }
             if(index != -1){
-                answer += max_profit[index];
+                answer += prefix_max[index];
             }
         }
-        return answer;
+    return answer;
     }
 }
