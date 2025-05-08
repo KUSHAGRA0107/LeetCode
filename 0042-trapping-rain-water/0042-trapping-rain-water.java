@@ -1,7 +1,15 @@
 class Solution {
     public int trap(int[] height) {
         /* Why Lmax < Rmax holds true ??
-            1. 
+            1. If there exist any value smaller than Rmax, we wont consider it because
+            it was never the max on the right side
+            2. If there exist any value which is greater the right max then it would
+            not count as it will still be greater than left_max
+            3. So Lmax will affect the water trapped on the left pointer so we will
+            calculate accordingly
+
+            What if Rmax < Lmax the above case will still hold true
+            and we will calculate accordingly 
          */
         int size = height.length;
         int left = 0;
