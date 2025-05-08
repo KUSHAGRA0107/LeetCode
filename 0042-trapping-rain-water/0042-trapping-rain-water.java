@@ -1,34 +1,14 @@
 class Solution {
     public int trap(int[] height) {
-        /* Why Lmax < Rmax holds true ??
-            1. If there exist any value smaller than Rmax, we wont consider it because
-            it was never the max on the right side
-            2. If there exist any value which is greater the right max then it would
-            not count as it will still be greater than left_max
-            3. So Lmax will affect the water trapped on the left pointer so we will
-            calculate accordingly
-
-            What if Rmax < Lmax the above case will still hold true
-            and we will calculate accordingly 
-         */
         int size = height.length;
-        int left = 0;
-        int right = size - 1;
-        int left_max = height[left];
-        int right_max = height[right];
+        int [] prefix = new int[size];
+        int [] suffix = new int[size];
         int answer = 0;
-        while(left <= right){
-            if(left_max < right_max){
-                left_max = Math.max(left_max, height[left]);
-                answer += left_max - height[left];
-                left++;
-            }else{
-                right_max = Math.max(right_max, height[right]);
-                answer += right_max - height[right];
-                right--;
-            }
-        }
+        prefix[0] = height[0];
+        suffix[size - 1] = height[size - 1];
+        for(int i = 1;i<size;i++) prefix[i] = Math.max(prefix[i - 1], height[i]);
+        for(int i = size - 2;i >= 0;i--) suffix[i] = Math.max(suffix[i + 1], height[i]);
+        for(int i = 1; i < size - 1; i++)answer += Math.min(prefix[i], suffix[i]) - height[i];
         return answer;
-
     }
 }
