@@ -31,6 +31,7 @@ Solutions To Leetcode
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
@@ -175,6 +176,7 @@ Solutions To Leetcode
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0560-subarray-sum-equals-k) |
