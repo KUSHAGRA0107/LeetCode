@@ -59,6 +59,7 @@ Solutions To Leetcode
 | [1063-best-sightseeing-pair](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
+| [1293-three-consecutive-odds](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
