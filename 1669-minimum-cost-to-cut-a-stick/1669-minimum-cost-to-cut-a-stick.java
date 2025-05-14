@@ -8,8 +8,8 @@ class Solution {
         nums[size + 1] = n;
         Arrays.sort(nums);
         for(int i = size; i >= 1; i--){
-            for(int j = 1; j <= size; j++){
-                if(i > j) continue;
+            for(int j = i ; j <= size; j++){
+               
                 int min = Integer.MAX_VALUE;
                 for(int index = i; index <= j; index++){
                     int answer = nums[j + 1] - nums[i - 1] + dp[i][index - 1] + dp[index + 1][j];
