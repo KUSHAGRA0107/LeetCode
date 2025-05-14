@@ -70,6 +70,7 @@ Solutions To Leetcode
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1656-count-good-triplets) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -137,6 +138,7 @@ Solutions To Leetcode
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -322,6 +324,7 @@ Solutions To Leetcode
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
