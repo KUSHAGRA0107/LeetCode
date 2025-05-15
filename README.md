@@ -30,6 +30,7 @@ Solutions To Leetcode
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -122,6 +123,7 @@ Solutions To Leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -218,6 +220,7 @@ Solutions To Leetcode
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
