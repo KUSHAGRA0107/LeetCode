@@ -41,6 +41,7 @@ Solutions To Leetcode
 | [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +156,7 @@ Solutions To Leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -320,6 +322,7 @@ Solutions To Leetcode
 | [0217-contains-duplicate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0502-ipo](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -371,6 +374,7 @@ Solutions To Leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
