@@ -64,6 +64,7 @@ Solutions To Leetcode
 | [1063-best-sightseeing-pair](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1087-longest-arithmetic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1121-partition-array-for-maximum-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1293-three-consecutive-odds](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -144,6 +145,7 @@ Solutions To Leetcode
 | [1025-minimum-cost-for-tickets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1121-partition-array-for-maximum-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
