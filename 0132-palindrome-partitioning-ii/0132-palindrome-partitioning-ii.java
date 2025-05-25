@@ -6,21 +6,20 @@ class Solution {
         }
         return true;
     }
-    public int getMinPartition(int index, int n, String s, int [] dp){
-        if(index == n) return 0;
-        if(dp[index] != -1) return dp[index];
-        int answer = s.length() + 1;
-        for(int j = index; j < n; j++){
-            if(isPalindrome(index, j, s)){
-                answer = Math.min(answer, 1 + getMinPartition(j + 1, n, s, dp));
-            }
-        }
-        return dp[index] = answer;
-    }
     public int minCut(String s) {
-        int [] dp = new int[s.length()];
-        for(int i = 0; i < dp.length; i++) Arrays.fill(dp, -1);
-        int answer = getMinPartition(0, s.length(), s, dp);
-        return answer - 1;
+        int size = s.length() + 1;
+        int [] dp = new int[size];
+        dp[size - 1] = 0;
+        for(int i = s.length() - 1; i >= 0; i--){
+            int min = Integer.MAX_VALUE;
+            for(int j = i; j < s.length(); j++){
+                if(isPalindrome(i, j, s)){
+                    int cost = 1 + dp[j + 1];
+                    min = Math.min(cost, min);
+                }
+            }
+            dp[i] = min;
+        }
+        return dp[0] - 1;
     }
 }
