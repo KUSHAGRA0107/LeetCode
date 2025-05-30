@@ -68,6 +68,7 @@ Solutions To Leetcode
 | [1121-partition-array-for-maximum-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1293-three-consecutive-odds](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -148,6 +149,7 @@ Solutions To Leetcode
 | [1087-longest-arithmetic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -209,6 +211,7 @@ Solutions To Leetcode
 | [0876-hand-of-straights](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0876-hand-of-straights) |
 | [1087-longest-arithmetic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
