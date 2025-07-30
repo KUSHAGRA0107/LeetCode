@@ -90,6 +90,7 @@ Solutions To Leetcode
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -178,6 +179,7 @@ Solutions To Leetcode
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
@@ -351,6 +353,7 @@ Solutions To Leetcode
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -381,6 +384,7 @@ Solutions To Leetcode
 | [0382-linked-list-random-node](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Game Theory
 |  |
