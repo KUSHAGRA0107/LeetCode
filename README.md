@@ -375,6 +375,7 @@ Solutions To Leetcode
 | ------- |
 | [0013-roman-to-integer](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -577,6 +578,7 @@ Solutions To Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
