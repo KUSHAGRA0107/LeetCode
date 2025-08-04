@@ -21,9 +21,9 @@ class Solution {
         return;
     }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode head = new ListNode();
+        ListNode head = new ListNode(0);
         ListNode ptr = head;
         add(l1, l2, ptr, 0);
-        return ptr.next;
+        return head.next;
     }
 }
