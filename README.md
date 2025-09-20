@@ -117,6 +117,7 @@ Solutions To Leetcode
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Solutions To Leetcode
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -335,6 +337,7 @@ Solutions To Leetcode
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -447,11 +450,13 @@ Solutions To Leetcode
 | [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -569,6 +574,7 @@ Solutions To Leetcode
 | [0860-design-circular-queue](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
 | [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3827-implement-router) |
 ## Reservoir Sampling
 |  |
 | ------- |
