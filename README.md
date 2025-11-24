@@ -62,6 +62,7 @@ Solutions To Leetcode
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -550,6 +551,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
