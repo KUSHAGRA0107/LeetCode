@@ -155,6 +155,7 @@ Solutions To Leetcode
 | [1087-longest-arithmetic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -269,6 +270,7 @@ Solutions To Leetcode
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
