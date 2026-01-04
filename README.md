@@ -553,6 +553,7 @@ Solutions To Leetcode
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1415-students-and-examinations](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1415-students-and-examinations) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Bit Manipulation
