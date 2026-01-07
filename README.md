@@ -510,6 +510,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [2384-root-equals-sum-of-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -519,6 +520,7 @@ Solutions To Leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -541,6 +543,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [2384-root-equals-sum-of-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -550,6 +553,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Database
 |  |
 | ------- |
