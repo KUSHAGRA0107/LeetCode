@@ -23,6 +23,7 @@ Solutions To Leetcode
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -196,6 +197,7 @@ Solutions To Leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Graph
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Solutions To Leetcode
 | [0049-group-anagrams](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0268-missing-number) |
@@ -515,6 +518,7 @@ Solutions To Leetcode
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -549,6 +553,7 @@ Solutions To Leetcode
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
