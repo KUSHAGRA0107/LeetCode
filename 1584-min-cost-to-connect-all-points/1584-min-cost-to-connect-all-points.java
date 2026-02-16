@@ -19,6 +19,7 @@ class Solution {
             adjacencyList.add(new ArrayList<>());
         }
 
+        /*Time Complexity : O(V * V) */
         for(int node = 0; node < size; node++){
             for(int i = 0; i < size; i++){
                 if(i != node){
@@ -30,6 +31,7 @@ class Solution {
 
         minHeap.offer(new Pair(0,0));
 
+        /* Worst Case At Max E Edges Can be there in MinHeap and For Each Operation LOG E Time i.e ELOGE*/
         while(minHeap.size() != 0){
             int edgeCost = minHeap.peek().edgeCost, nodeNumber = minHeap.peek().nodeNumber;
             minHeap.poll();
