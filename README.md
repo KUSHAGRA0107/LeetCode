@@ -83,6 +83,7 @@ Solutions To Leetcode
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1584-min-cost-to-connect-all-points](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1646-kth-missing-positive-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -655,4 +656,16 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
