@@ -542,6 +542,7 @@ Solutions To Leetcode
 | [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -552,6 +553,7 @@ Solutions To Leetcode
 | [0547-number-of-provinces](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -659,10 +661,12 @@ Solutions To Leetcode
 ## Union-Find
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
