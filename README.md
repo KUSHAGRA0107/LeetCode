@@ -50,6 +50,7 @@ Solutions To Leetcode
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -260,6 +261,7 @@ Solutions To Leetcode
 | [0079-word-search](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0221-maximal-square) |
+| [0566-reshape-the-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -394,6 +396,7 @@ Solutions To Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
