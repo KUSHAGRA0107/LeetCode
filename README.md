@@ -281,6 +281,7 @@ Solutions To Leetcode
 | [0132-palindrome-partitioning-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0763-partition-labels](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0763-partition-labels) |
