@@ -75,6 +75,7 @@ Solutions To Leetcode
 | [1087-longest-arithmetic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1293-three-consecutive-odds](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -400,6 +401,7 @@ Solutions To Leetcode
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -423,6 +425,7 @@ Solutions To Leetcode
 | [0507-perfect-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Game Theory
