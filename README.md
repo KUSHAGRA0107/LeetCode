@@ -89,6 +89,7 @@ Solutions To Leetcode
 | [1646-kth-missing-positive-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1748-sum-of-unique-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -238,6 +239,7 @@ Solutions To Leetcode
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1748-sum-of-unique-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -474,6 +476,7 @@ Solutions To Leetcode
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1983-maximum-population-year) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
