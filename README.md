@@ -95,6 +95,7 @@ Solutions To Leetcode
 | [1927-maximum-ascending-subarray-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1983-maximum-population-year](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -267,6 +268,7 @@ Solutions To Leetcode
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -398,6 +400,7 @@ Solutions To Leetcode
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
