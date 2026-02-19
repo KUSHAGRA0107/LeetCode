@@ -117,6 +117,7 @@ Solutions To Leetcode
 | [2685-first-completely-painted-row-or-column](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2690-house-robber-iv) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -673,6 +674,7 @@ Solutions To Leetcode
 | ------- |
 | [1656-count-good-triplets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Counting Sort
 |  |
 | ------- |
