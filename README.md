@@ -507,6 +507,7 @@ Solutions To Leetcode
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -535,6 +536,7 @@ Solutions To Leetcode
 | [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -548,6 +550,7 @@ Solutions To Leetcode
 | [0547-number-of-provinces](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -574,6 +577,7 @@ Solutions To Leetcode
 | [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -582,6 +586,7 @@ Solutions To Leetcode
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Database
 |  |
 | ------- |
