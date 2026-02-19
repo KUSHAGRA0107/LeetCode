@@ -90,6 +90,7 @@ Solutions To Leetcode
 | [1656-count-good-triplets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1748-sum-of-unique-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -428,6 +429,7 @@ Solutions To Leetcode
 | [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0909-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Game Theory
