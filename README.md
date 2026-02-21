@@ -106,6 +106,7 @@ Solutions To Leetcode
 | [2262-solving-questions-with-brainpower](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2284-sender-with-largest-word-count](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -246,6 +247,7 @@ Solutions To Leetcode
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2284-sender-with-largest-word-count](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -303,6 +305,7 @@ Solutions To Leetcode
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2284-sender-with-largest-word-count](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -485,6 +488,7 @@ Solutions To Leetcode
 | [1748-sum-of-unique-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1983-maximum-population-year) |
+| [2284-sender-with-largest-word-count](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
