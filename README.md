@@ -69,6 +69,7 @@ Solutions To Leetcode
 | [0943-sum-of-subarray-minimums](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -529,6 +530,7 @@ Solutions To Leetcode
 | [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -543,6 +545,7 @@ Solutions To Leetcode
 | [0780-max-chunks-to-make-sorted](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
@@ -556,6 +559,7 @@ Solutions To Leetcode
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -597,6 +601,7 @@ Solutions To Leetcode
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -606,6 +611,7 @@ Solutions To Leetcode
 | [0096-unique-binary-search-trees](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
 |  |
 | ------- |
