@@ -46,6 +46,7 @@ Solutions To Leetcode
 | [0456-132-pattern](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -233,6 +234,7 @@ Solutions To Leetcode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0763-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -292,6 +294,7 @@ Solutions To Leetcode
 | [0125-valid-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0212-word-search-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0212-word-search-ii) |
+| [0500-keyboard-row](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0649-dota2-senate) |
