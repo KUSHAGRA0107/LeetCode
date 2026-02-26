@@ -201,6 +201,7 @@ Solutions To Leetcode
 | [0890-lemonade-change](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0890-lemonade-change) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -442,6 +443,7 @@ Solutions To Leetcode
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Game Theory
