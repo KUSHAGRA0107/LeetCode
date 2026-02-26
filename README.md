@@ -303,6 +303,7 @@ Solutions To Leetcode
 | [0763-partition-labels](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0763-partition-labels) |
 | [1129-longest-string-chain](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1129-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -414,6 +415,7 @@ Solutions To Leetcode
 | [0566-reshape-the-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -625,6 +627,7 @@ Solutions To Leetcode
 | ------- |
 | [0268-missing-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
