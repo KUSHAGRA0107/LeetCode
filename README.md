@@ -625,6 +625,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1075-project-employees-i) |
 | [1415-students-and-examinations](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1415-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
