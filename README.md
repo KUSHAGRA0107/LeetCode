@@ -225,6 +225,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0041-first-missing-positive) |
@@ -293,6 +294,7 @@ Solutions To Leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0049-group-anagrams) |
@@ -431,6 +433,7 @@ Solutions To Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0050-powx-n) |
