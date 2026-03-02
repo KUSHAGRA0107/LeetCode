@@ -85,6 +85,7 @@ Solutions To Leetcode
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -200,6 +201,7 @@ Solutions To Leetcode
 | [0876-hand-of-straights](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0890-lemonade-change) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -279,6 +281,7 @@ Solutions To Leetcode
 | [0766-toeplitz-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1876-map-of-highest-peak](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
