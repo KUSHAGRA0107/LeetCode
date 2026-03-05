@@ -316,6 +316,7 @@ Solutions To Leetcode
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -428,6 +429,7 @@ Solutions To Leetcode
 | [0735-asteroid-collision](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0735-asteroid-collision) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -688,6 +690,7 @@ Solutions To Leetcode
 | [0002-add-two-numbers](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/KUSHAGRA0107/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
 | ------- |
