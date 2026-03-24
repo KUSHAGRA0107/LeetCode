@@ -128,6 +128,7 @@ Solutions To Leetcode
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2906-construct-product-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -292,6 +293,7 @@ Solutions To Leetcode
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2906-construct-product-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3797-design-spreadsheet](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3797-design-spreadsheet) |
 ## String
@@ -491,6 +493,7 @@ Solutions To Leetcode
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1983-maximum-population-year](https://github.com/KUSHAGRA0107/LeetCode/tree/master/1983-maximum-population-year) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2906-construct-product-matrix](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3427-special-array-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3643-zero-array-transformation-ii) |
