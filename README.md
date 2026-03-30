@@ -266,6 +266,7 @@ Solutions To Leetcode
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -330,6 +331,7 @@ Solutions To Leetcode
 | [2232-adding-spaces-to-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -422,6 +424,7 @@ Solutions To Leetcode
 | [2566-number-of-unequal-triplets-in-array](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KUSHAGRA0107/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/KUSHAGRA0107/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## String Matching
